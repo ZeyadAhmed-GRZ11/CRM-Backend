@@ -1,5 +1,5 @@
-const mongoose = require("mongoose");
-const Schema = mongoose.Schema;
+const mysql = require("mysql");
+const Schema = mysql.Schema;
 
 const TicketSchema = new Schema({
   clientId: {
