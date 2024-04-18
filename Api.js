@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 // Define the URL of the Axis API endpoint
-const apiUrl = 'https://localhost:5000';
+const apiUrl = 'https://localhost:5000/users';
 
 // Define any headers or authentication tokens if required
 const headers = {
