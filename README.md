@@ -5,7 +5,6 @@ Link for the series is https://youtu.be/XWbEzWSKBfs
 
 ## How to use
 
-- run `git clone https://github.com/DentedCode/client-api.git`
 - run `npm install`
 - run `npm start`
 
